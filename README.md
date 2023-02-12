@@ -1,9 +1,9 @@
 # Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">, I'm <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Dimash</a>. I'm a Front-end Developer
 ## ⚙️Tools and technologies that I have worked with and am interested in ⚙️ 
 <table>
-  <tr>
+  <th>
     Front-end
-  </tr>
+  </th>
   <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
@@ -37,7 +37,9 @@
         <img src="https://www.gstatic.com/devrel-devsite/prod/vde5e97689c1d94fa683b9e5392f0f6b6562f68c8b527194cc7ca91d97bde649f/webrtc/images/lockup.svg" width="65" height="65" alt="WebRTC" />
       <br>WebRTC
     </td>
-    <td align="center"  width="96">
+  </tr>
+  <tr>
+     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
       <br>HTML
     </td>
@@ -46,9 +48,9 @@
       <br>CSS
     </td>
   </tr>
-   <tr>
+   <th>
     Backend
-  </tr>
+  </th>
   <tr>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="node" />
@@ -71,9 +73,9 @@
       <br>PostgreSQL
     </td>
  </tr>
-   <tr>
+   <th>
     Other
-  </tr>
+  </th>
  <tr>
    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
