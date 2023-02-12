@@ -104,13 +104,13 @@
 <table>
   <tr>
 <a href="https://www.instagram.com/dimashstyle/">
-  <img align="left" alt="Dimash's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Dimash's Instagram" width="96px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Dimash's Telegram" width="22px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNQ9OALS0b3OCP0IDPN_ciHVJAlv05Tx6UFRNBJFWtUwpQxpT5hHkvv1WkFFLiw55P9E&usqp=CAU" />
+  <img align="left" alt="Dimash's Telegram" width="96px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNQ9OALS0b3OCP0IDPN_ciHVJAlv05Tx6UFRNBJFWtUwpQxpT5hHkvv1WkFFLiw55P9E&usqp=CAU" />
 </a>
 <a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BD%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4-%D1%81%D0%B5%D1%80%D0%B8%D0%BA-58709a261">
-  <img align="left" alt="Dimash's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dimash's LinkedIN" width="96px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   </tr>
 </table>
