@@ -100,7 +100,7 @@
  </tr>
 </table>
 
-## ⚙️You can find me in ⚙️ 
+## 💬You can find me in💬 
 <table>
   <tr>
 <a href="https://www.instagram.com/dimashstyle/">
