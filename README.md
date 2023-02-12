@@ -20,11 +20,7 @@
     </td>
     <td align="center"  width="96">
         <img src="https://mui.com/static/logo.png" width="65" height="65" alt="bootstrap" />
-      <br>Material UI
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
+      <br>MUI
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
@@ -35,6 +31,7 @@
       <br>CSS
     </td>
   </tr>
+  <br>Backend
   <tr>
      <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="node" />
@@ -48,23 +45,30 @@
         <img src="https://skillicons.dev/icons?i=nestjs" width="65" height="65" alt="express" />
       <br>Nest.js
     </td>   
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>Rest
-    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=mongo" width="65" height="65" alt="mongo" />
-      <br>Mongo
+      <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
+        <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="icon" width="65" height="65" />
+      <br>PostgreSQL
     </td>
-    <td align="center" width="96">
+ </tr>
+  <br> Other
+ <tr>
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+   <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+      <br>Rest
+    </td>
+   <td align="center" width="96">
         <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="65" height="65" alt="Postman" />
       <br>Postman
     </td>
