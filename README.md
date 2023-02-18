@@ -1,4 +1,4 @@
-# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">, I'm <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Dimash</a>. I'm a Front-end Developer
+# Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">, I'm <a href="https://www.linkedin.com/in/darkhan-zharylkagan-166129251/">Dimash</a> Front-end Developer
 ## ⚙️Tools and technologies that I have worked with and am interested in ⚙️ 
 <table>
   <th>
