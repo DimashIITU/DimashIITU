@@ -111,7 +111,7 @@
   <img align="left" alt="Dimash's Telegram" width="48px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNQ9OALS0b3OCP0IDPN_ciHVJAlv05Tx6UFRNBJFWtUwpQxpT5hHkvv1WkFFLiw55P9E&usqp=CAU" />
 </a>
 <a href="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled">
-  <img align="left" alt="Dimash's LinkedIN" width="48px" src="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled" />
+  <img align="left" alt="Dimash's LinkedIN" width="48px" src="https://www.google.com/search?q=linkedin&sca_esv=570249222&sxsrf=AM9HkKmKm6KtdoEeXASkJ3BpxkXJvJPIsA:1696310583231&tbm=isch&source=iu&ictx=1&vet=1&fir=nHHUO6lV3mY-eM%252C-F3F1qZqDI-WbM%252C%252Fm%252F0w03805&usg=AI4_-kQed8hqKnrWIirT0CgxItolBsBZpQ&sa=X&ved=2ahUKEwiL4PetkdmBAxWlFBAIHQEpD5IQ_B16BAgaEAI#imgrc=nHHUO6lV3mY-eM" />
 </a>
   </tr>
 </table>
