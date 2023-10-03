@@ -1,7 +1,4 @@
-# Hel
 
-
-lo <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">, I'm <a href="https://www.linkedin.com/in/%D0%B4%D0%B8%D0%BD%D0%BC%D1%83%D1%85%D0%B0%D0%BC%D0%B5%D0%B4-%D1%81%D0%B5%D1%80%D0%B8%D0%BA-58709a261">Dimash</a> Front-end Developer
 ## ⚙️Tools and technologies that I have worked with and am interested in ⚙️ 
 <table>
   <th>
