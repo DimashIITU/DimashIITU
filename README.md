@@ -111,7 +111,7 @@
   <img align="left" alt="Dimash's Telegram" width="48px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTNQ9OALS0b3OCP0IDPN_ciHVJAlv05Tx6UFRNBJFWtUwpQxpT5hHkvv1WkFFLiw55P9E&usqp=CAU" />
 </a>
 <a href="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled">
-  <img align="left" alt="Dimash's LinkedIN" width="48px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Dimash's LinkedIN" width="48px" src="https://icons8.com/icon/kFJzAZryEscq/linkedin-circled" />
 </a>
   </tr>
 </table>
