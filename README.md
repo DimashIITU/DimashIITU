@@ -19,7 +19,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4IcgLmNUtUYpGi7QCJKBhfI3Oe_Ko1Kq5rg&usqp=CAU" alt="icon" width="65" height="65" />
+        <img src="https://www.svgrepo.com/show/354113/nextjs-icon.svg" alt="icon" width="65" height="65" />
       <br>Next
     </td>
      <td align="center" width="96">
